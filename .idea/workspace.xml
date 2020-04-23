@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68f54580-764f-4029-ba0f-dd1083cc37b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/commands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/eightpuzzle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/ghostAgents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/graphicsDisplay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/graphicsUtils.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/keyboardAgents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/pacman.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/pacmanAgents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/searchAgents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/textDisplay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/docs/util.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/eightpuzzle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/ghostAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/graphicsDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/graphicsUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/keyboardAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/bigCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/bigMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/bigSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/bigSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/boxSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/capsuleClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/contestClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/contoursMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/greedySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/mediumClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/mediumCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/mediumDottedMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/mediumMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/mediumSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/mediumScaryMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/mediumSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/minimaxClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/oddSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/openClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/openMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/openSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/originalClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/smallClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/smallMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/smallSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/smallSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/testClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/testMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/testSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/tinyCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/tinyMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/tinySafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/tinySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/trappedClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/trickyClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/layouts/trickySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/maze.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/pacman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/pacmanAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/projects.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/searchAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/textDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/util.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/user.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="y" value="27" />
+    <option name="width" value="1294" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Instagram_Account_Analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagram_Account_Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram_Account_Analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagram_Account_Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Instagram_Account_Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f54580-764f-4029-ba0f-dd1083cc37b4" name="Default Changelist" comment="" />
+      <created>1587653863210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587653863210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/user.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
