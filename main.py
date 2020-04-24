@@ -1,12 +1,11 @@
 import requests
-import time
-from bs4 import BeautifulSoup
 import json
 from user import User
 from photo import Photo
 from video import Video
 
-profile = 'https://www.instagram.com/cristiano/?__a=1'
+
+profile = 'https://www.instagram.com/rodolfo_saldanha/?__a=1'
 
 try:
     response = requests.get(profile)
@@ -34,7 +33,5 @@ for media in info['edge_owner_to_timeline_media']['edges']:
 user.calculate_photo_averages()
 user.calculate_videos_averages()
 user.calculate_media_averages()
-
-print(user.print_info())
-
-exit(1)
+user.generate_word_cloud()
+user.print_info()

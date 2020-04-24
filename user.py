@@ -1,3 +1,9 @@
+from nltk.tokenize import word_tokenize
+import en_core_web_sm
+from nltk.corpus import stopwords
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
+
 
 class User:
 
@@ -45,8 +51,6 @@ class User:
             total_likes_photos = total_likes_photos + photo.likes_amount
             total_comments_photos = total_comments_photos + photo.comments_amount
 
-        print(total_likes_photos)
-
         if len(self.photos) != 0:
             self.avg_likes_photos = total_likes_photos / len(self.photos)
             self.avg_comments_photos = total_comments_photos / len(self.photos)
@@ -71,3 +75,19 @@ class User:
         media_length = len(self.photos) + len(self.videos)
         self.avg_likes = self.total_likes/ media_length
         self.avg_comments = self.total_comments / media_length
+
+    def generate_word_cloud(self):
+        description_tokens = []
+
+        for photo in self.photos:
+            description = photo.description[(photo.description.find('Image may contain:') + 19):]
+            description_tokens.append(word_tokenize(description))
+
+        flat_description_tokens = [token for sublist in description_tokens for token in sublist]
+        stop_words = stopwords.words('english')
+        wc = WordCloud(max_words=100, stopwords=stop_words, max_font_size=50).generate(' '.join(flat_description_tokens))
+
+        plt.title("Word cloud of photo's description")
+        plt.imshow(wc, interpolation='bilinear')
+        plt.axis("off")
+        plt.show()
